@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61f0ed1e-ad5d-4538-9c4a-15aa66d48226" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.ts" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/index.ts" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,25 +17,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+                <folding>
+                  <marker date="1512847770000" expanded="true" signature="1688:2123" ph="{&quot;name&quot;: &quot;server&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="1745:1981" ph="{&quot;postinstall&quot;: &quot;tsc -p ./src&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="2004:2092" ph="{&quot;@types/node&quot;: &quot;^6.0.50&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="4188:4487" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="4224:4485" ph="[...]" />
+                  <marker date="1512847770000" expanded="true" signature="4230:4481" ph="{&quot;taskName&quot;: &quot;tsc-watch&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="5615:5978" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="5659:5976" ph="[...]" />
+                  <marker date="1512847770000" expanded="true" signature="5665:5972" ph="{&quot;name&quot;: &quot;Attach to Docker&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="5917:5966" ph="[...]" />
+                  <marker date="1512847770000" expanded="true" signature="7669:8222" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="7713:8220" ph="[...]" />
+                  <marker date="1512847770000" expanded="true" signature="7719:8216" ph="{&quot;name&quot;: &quot;Launch in Docker&quot;...}" />
+                  <marker date="1512847770000" expanded="true" signature="8077:8126" ph="[...]" />
+                </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -129,19 +134,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513020576902</updated>
-      <workItem from="1513020578041" duration="266000" />
+      <workItem from="1513020578041" duration="2056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266000" />
+    <option name="totallyTimeSpent" value="2056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -176,7 +180,22 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1512847770000" expanded="true" signature="1688:2123" ph="{&quot;name&quot;: &quot;server&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="1745:1981" ph="{&quot;postinstall&quot;: &quot;tsc -p ./src&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="2004:2092" ph="{&quot;@types/node&quot;: &quot;^6.0.50&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="4188:4487" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="4224:4485" ph="[...]" />
+              <marker date="1512847770000" expanded="true" signature="4230:4481" ph="{&quot;taskName&quot;: &quot;tsc-watch&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="5615:5978" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="5659:5976" ph="[...]" />
+              <marker date="1512847770000" expanded="true" signature="5665:5972" ph="{&quot;name&quot;: &quot;Attach to Docker&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="5917:5966" ph="[...]" />
+              <marker date="1512847770000" expanded="true" signature="7669:8222" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="7713:8220" ph="[...]" />
+              <marker date="1512847770000" expanded="true" signature="7719:8216" ph="{&quot;name&quot;: &quot;Launch in Docker&quot;...}" />
+              <marker date="1512847770000" expanded="true" signature="8077:8126" ph="[...]" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -185,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
